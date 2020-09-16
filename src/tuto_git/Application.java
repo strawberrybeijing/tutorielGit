@@ -32,7 +32,7 @@ public class Application extends Frame implements WindowListener {
 		this.setTitle("The clic game");
 		this.setVisible(true);	
 	}
-// 666 
+//zhaijing zuimei
 	@Override
 	public void windowActivated(WindowEvent e) {}
 
