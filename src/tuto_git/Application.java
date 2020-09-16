@@ -35,7 +35,7 @@ public class Application extends Frame implements WindowListener {
 //zhaijing zuimei
 	@Override
 	public void windowActivated(WindowEvent e) {}
-
+//2333
 	@Override
 	public void windowClosed(WindowEvent e) {}
 
