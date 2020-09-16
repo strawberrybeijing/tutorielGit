@@ -19,13 +19,13 @@ public class Application extends Frame implements WindowListener {
 		Controller ctrl = new Controller(modl); 
 		//build
 		View view = new View();
-		
+		//.....
 		modl.addObserver(view);
 		
 		view.addActionListener(ctrl);
 
 		this.addWindowListener(this);
-		
+
 		this.add(view);
 		
 		this.pack();
